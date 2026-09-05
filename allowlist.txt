@@ -1,1 +1,2 @@
 @@||api.honeygain.com^
+@@||sdk.split.io^$important
